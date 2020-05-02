@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
 
+#maven
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
 # Eclipse
 target
 bin
@@ -11,6 +16,15 @@ build
 .DS_Store
 .gradle
 .springBeans
+
+### STS ###
+.apt_generated
+.factorypath
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
 
 # Log file
 *.log
