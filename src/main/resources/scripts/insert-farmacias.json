@@ -1,0 +1,5162 @@
+db.farmacias.insert([
+  {
+    "direccion": "ALVAREZ THOMAS AV. 302",
+    "barrio": "CHACARITA",
+    "comuna": 15
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 1238",
+    "barrio": "CHACARITA",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORRIENTES AV. 6151",
+    "barrio": "CHACARITA",
+    "comuna": 15
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 900",
+    "barrio": "CHACARITA",
+    "comuna": 15
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 284",
+    "barrio": "CHACARITA",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORRIENTES AV. 6169",
+    "barrio": "CHACARITA",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORRIENTES AV. 6847",
+    "barrio": "CHACARITA",
+    "comuna": 15
+  },
+  {
+    "direccion": "DORREGO AV. 940",
+    "barrio": "CHACARITA",
+    "comuna": 15
+  },
+  {
+    "direccion": "ESPINOSA 2005",
+    "barrio": "PATERNAL",
+    "comuna": 15
+  },
+  {
+    "direccion": "SAN MARTIN AV. 2211",
+    "barrio": "PATERNAL",
+    "comuna": 15
+  },
+  {
+    "direccion": "WARNES AV. 2707",
+    "barrio": "PATERNAL",
+    "comuna": 15
+  },
+  {
+    "direccion": "SAN MARTIN AV. 2399",
+    "barrio": "PATERNAL",
+    "comuna": 15
+  },
+  {
+    "direccion": "GURRUCHAGA 684",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "PADILLA 720",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORRIENTES AV. 5541",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORRIENTES AV. 5901",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORRIENTES AV. 5000",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "ESTADO DE ISRAEL AV. 4601",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "GALICIA 601",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORDOBA AV. 4102",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "SAN MARTIN AV. 2159",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORRIENTES AV. 5288",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORRIENTES AV. 5801",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "GAONA AV. 1101",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "SERRANO 1044",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "MALABIA 487",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORRIENTES AV. 6042",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORRIENTES AV. 5736",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "SAN MARTIN AV. 2165",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "CORRIENTES AV. 5283",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "SAN MARTIN AV. 1851",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "SAN MARTIN AV. 1755",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "SAN MARTIN AV. 1631",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "PADILLA 992",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "ALVAREZ JONTE 2311",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "TINOGASTA 3702",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "NAZCA AV. 3001",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "CAMPANA 2323",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "SAN MARTIN AV. 5468",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "CONCORDIA 2707",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "CUENCA 2581",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "NOGOYA 3141",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "NAZCA AV. 2746",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "ALVAREZ JONTE 2475",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "NAZCA AV. 2602",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "ALVAREZ JONTE AV. 3721",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "NAZCA AV. 2301",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "CUENCA 2901",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "CUENCA 3149",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "ALVAREZ JONTE AV. 2901",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "CUENCA 3384",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "CUENCA 2717",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "CAMPANA 2502",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "ALVAREZ JONTE AV. 3873",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "CUENCA 3005",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": 11
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 3501",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "CORRIENTES AV. 3650",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "SANCHEZ DE BUSTAMANTE 462",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "MORENO 3489",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 3899",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "BOEDO AV. 500",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "BELGRANO AV. 3400",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "BELGRANO AV. 3301",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "RIVADAVIA AV. 3426",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 3347",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "ESTADO DE ISRAEL AV. 4784",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "BOEDO AV. 490",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "SARMIENTO 3499",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "LA PLATA AV. 586",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "CORRIENTES AV. 3895",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "BELGRANO 3802",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "RIVADAVIA AV. 3913",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "CORRIENTES AV. 3687",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "GASCON 450",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "RIVADAVIA AV. 4299",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "CORRIENTES AV. 4617",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "RIVADAVIA AV. 4002",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "RIVADAVIA AV. 3600",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "MEDRANO AV. 60",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "RIVADAVIA AV. 4301",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "LAMBARE 1076",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "SARMIENTO 4449",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "CORRIENTES AV. 4371",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "MEDRANO AV. 533",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "MEDRANO AV. 351",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "LA PLATA AV. 96",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "CORDOBA AV. 3902",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "RIVADAVIA AV. 4451",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "RIVADAVIA AV. 3823",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "CORRIENTES AV. 3920",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "GASCON 632",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "CORRIENTES AV. 4647",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "GASCON 667",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 4455",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "ESTADO DE ISRAEL AV. 4790",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "MEDRANO AV. 6",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "CORRIENTES AV. 4025",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "LAVALLE 4098",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 4500",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "RIVADAVIA AV. 4065",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "RIVADAVIA AV. 3695",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 3897",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "CORRIENTES AV. 4194",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "SARMIENTO 3602",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "POTOSI 4100",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "DOBLAS 228",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "DIRECTORIO AV. 701",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "FORMOSA 100",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "GAONA AV. 1851",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "AVELLANEDA 896",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 4509",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "ESPINOSA 1634",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "NEUQUEN 1602",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "DIRECTORIO AV. 1249",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "HIDALGO 945",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 5079",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "SAN MARTIN AV. 1216",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIGLOS 277",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "BOGOTA 3",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "AVELLANEDA AV. 1781",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "ACOYTE AV. 141",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "LA PLATA AV. 283",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "ACOYTE AV. 701",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "AVELLANEDA 390",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "LA PLATA AV. 405",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIO DE JANEIRO 102",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "ROJAS 599",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "GAONA AV. 1306",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "LA PLATA AV. 567",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "GAONA AV. 1486",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIGLOS 370",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "GAONA AV. 1665",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 5502",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 6151",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "PATRICIAS ARGENTINAS AV. 351",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RAMOS MEJIA 905",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 5360",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "ROJAS 143",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 5802",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 4953",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 5101",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "BARCO CENTENERA DEL 151",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 5444",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 4764",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 4544",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "AVELLANEDA 212",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 5892",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 5415",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "AVELLANEDA 590",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 5375",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "LA PLATA AV. 365",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "SAN MARTIN AV. 1854",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 4634",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 5014",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "NEUQUEN 601",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "LA PLATA AV. 793",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 5396",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 6199",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 6064",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "ACOYTE AV. 435",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "RIVADAVIA AV. 4718",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 5402",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "HIDALGO 775",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "ACOYTE AV. 268",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "AVELLANEDA 528",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "FORMOSA 302",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "NAZCA AV. 1930",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "LLAVALLOL 1701",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "ALVAREZ JONTE AV. 3402",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "NAZCA AV. 1341",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "CUENCA 1398",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "NAZCA AV. 1876",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "NAZCA AV. 2102",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "ALVAREZ JONTE AV. 3202",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "NAZCA AV. 1982",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "NAZCA AV. 2168",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "GAONA AV. 3501",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "GAONA AV. 3601",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "TERRADA 1164",
+    "barrio": "VILLA SANTA RITA",
+    "comuna": 11
+  },
+  {
+    "direccion": "ALVAREZ JONTE AV. 4886",
+    "barrio": "MONTE CASTRO",
+    "comuna": 10
+  },
+  {
+    "direccion": "SANABRIA 2501",
+    "barrio": "MONTE CASTRO",
+    "comuna": 10
+  },
+  {
+    "direccion": "SANABRIA 1880",
+    "barrio": "MONTE CASTRO",
+    "comuna": 10
+  },
+  {
+    "direccion": "SEGUROLA AV. 1602",
+    "barrio": "MONTE CASTRO",
+    "comuna": 10
+  },
+  {
+    "direccion": "LOPE DE VEGA AV. 1702",
+    "barrio": "MONTE CASTRO",
+    "comuna": 10
+  },
+  {
+    "direccion": "SEGUROLA AV. 1898",
+    "barrio": "MONTE CASTRO",
+    "comuna": 10
+  },
+  {
+    "direccion": "LOPE DE VEGA AV. 1397",
+    "barrio": "MONTE CASTRO",
+    "comuna": 10
+  },
+  {
+    "direccion": "IRIGOYEN 1989",
+    "barrio": "VILLA REAL",
+    "comuna": 10
+  },
+  {
+    "direccion": "GALLARDO 1002",
+    "barrio": "VILLA REAL",
+    "comuna": 10
+  },
+  {
+    "direccion": "LOPE DE VEGA AV. 2284",
+    "barrio": "VILLA REAL",
+    "comuna": 10
+  },
+  {
+    "direccion": "LOPE DE VEGA AV. 3452",
+    "barrio": "VILLA REAL",
+    "comuna": 10
+  },
+  {
+    "direccion": "VARELA AV. 1306",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "AVELLANEDA AV. 2014",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "GAONA AV. 2778",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "SAN PEDRITO AV. 296",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "GAONA AV. 2488",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "CARABOBO AV. 1611",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 6202",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "PEDERNERA 599",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "BOYACA AV. 508",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "CARABOBO AV. 1295",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "NAZCA AV. 411",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 7672",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "CARABOBO AV. 717",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "CARABOBO AV. 206",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "MORON 2902",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "VARELA AV. 1294",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "GAONA AV. 3390",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "GAONA AV. 2608",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 7363",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "VARELA AV. 794",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "DIRECTORIO AV. 2001",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 6327",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "VARELA AV. 1158",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "GAONA AV. 3050",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 6379",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "GAONA AV. 2570",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "PEDERNERA 119",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 7222",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 7269",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 6390",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 6884",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "GAONA AV. 3004",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "DIRECTORIO AV. 2900",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "GAONA AV. 2400",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "BACACAY 2357",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "YERBAL 2899",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 6854",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 6799",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 7209",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "DIRECTORIO AV. 1902",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 7283",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "AVELLANEDA AV. 2600",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "BOGOTA 2396",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "RIVADAVIA AV. 7496",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "GAONA AV. 2308",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "DIRECTORIO AV. 2601",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "SAN PEDRITO AV. 28",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "YERBAL 2399",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "VARELA AV. 999",
+    "barrio": "FLORES",
+    "comuna": 7
+  },
+  {
+    "direccion": "AVELLANEDA AV. 3879",
+    "barrio": "FLORESTA",
+    "comuna": 10
+  },
+  {
+    "direccion": "MORON 3283",
+    "barrio": "FLORESTA",
+    "comuna": 10
+  },
+  {
+    "direccion": "GAONA AV. 4202",
+    "barrio": "FLORESTA",
+    "comuna": 10
+  },
+  {
+    "direccion": "PEHUAJO 901",
+    "barrio": "FLORESTA",
+    "comuna": 10
+  },
+  {
+    "direccion": "AVELLANEDA AV. 3724",
+    "barrio": "FLORESTA",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 8302",
+    "barrio": "FLORESTA",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 8099",
+    "barrio": "FLORESTA",
+    "comuna": 10
+  },
+  {
+    "direccion": "ENTRE RIOS AV. 1684",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "CONSTITUCION 1250",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "CONSTITUCION 1400",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 1460",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "ESTADOS UNIDOS 1518",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "BRASIL 1269",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 980",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "BRASIL 1184",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "ENTRE RIOS AV. 940",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "SAN JUAN AV. 1302",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "BRASIL 1223",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "BRASIL 1156",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "SALTA 1899",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "CASEROS AV. 999",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "BRASIL 1128",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 1384",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "TACUARI 1302",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "BRASIL 1299",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 1834",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAN JUAN AV. 2844",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "ESTADOS UNIDOS 3001",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "LA RIOJA 934",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAN JUAN AV. 2684",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAN JUAN AV. 2501",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAN JUAN AV. 3002",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAN JUAN AV. 2000",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAN JUAN AV. 2233",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 2900",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "ENTRE RIOS AV. 1177",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 3002",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAN JUAN AV. 3162",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAN JUAN AV. 2701",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 2700",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAN JUAN AV. 2376",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAN JUAN AV. 2099",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 2002",
+    "barrio": "SAN CRISTOBAL",
+    "comuna": 3
+  },
+  {
+    "direccion": "LA PLATA AV. 1234",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "SAN JUAN AV. 4009",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "PAVON AV. 4183",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "SALCEDO 3430",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "CASEROS AV. 3555",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "BOEDO AV. 1549",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "BOEDO AV. 937",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "LA PLATA AV. 1560",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "LA PLATA AV. 1402",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "BOEDO AV. 783",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "LA PLATA AV. 1702",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "BOEDO AV. 953",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "BOEDO AV. 950",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 3830",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "SAN JUAN AV. 3701",
+    "barrio": "BOEDO",
+    "comuna": 5
+  },
+  {
+    "direccion": "SEGUROLA AV. 600",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "SEGUROLA AV. 1574",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 8418",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "SEGUROLA AV. 1200",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "SEGUROLA AV. 296",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 9123",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 8900",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "SEGUROLA AV. 738",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 8880",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 8701",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 8896",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "CARRASCO AV. 464",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 8503",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 8784",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 8777",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "OLIVERA AV. 139",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 8509",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": 10
+  },
+  {
+    "direccion": "LOPE DE VEGA 580",
+    "barrio": "VILLA LURO",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 9406",
+    "barrio": "VILLA LURO",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 10100",
+    "barrio": "VILLA LURO",
+    "comuna": 10
+  },
+  {
+    "direccion": "IRIGOYEN 1237",
+    "barrio": "VILLA LURO",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 9902",
+    "barrio": "VILLA LURO",
+    "comuna": 10
+  },
+  {
+    "direccion": "ALVAREZ JONTE AV. 5402",
+    "barrio": "VILLA LURO",
+    "comuna": 10
+  },
+  {
+    "direccion": "LOPE DE VEGA AV. 1272",
+    "barrio": "VILLA LURO",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 9626",
+    "barrio": "VILLA LURO",
+    "comuna": 10
+  },
+  {
+    "direccion": "RIVADAVIA AV. 9502",
+    "barrio": "VILLA LURO",
+    "comuna": 10
+  },
+  {
+    "direccion": "CASEROS AV. 2032",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "BRASIL 2388",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "GRITO DE ASENCIO 3402",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "MATHEU 1702",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "ENTRE RIOS AV. 2177",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "MATHEU 1720",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "COMBATE DE LOS POZOS 1881",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 2102",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 2827",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 2608",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "USPALLATA 3400",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "LA RIOJA 1905",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 2915",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "LA RIOJA 2099",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 2980",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "DEAN FUNES 1744",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "JUJUY AV. 1731",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 2979",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "ENTRE RIOS AV. 1735",
+    "barrio": "PARQUE PATRICIOS",
+    "comuna": 4
+  },
+  {
+    "direccion": "DE LOS CORRALES AV. 7228",
+    "barrio": "MATADEROS",
+    "comuna": 9
+  },
+  {
+    "direccion": "DE LOS CORRALES AV. 6801",
+    "barrio": "MATADEROS",
+    "comuna": 9
+  },
+  {
+    "direccion": "DIRECTORIO AV. 5126",
+    "barrio": "MATADEROS",
+    "comuna": 9
+  },
+  {
+    "direccion": "ESCALADA AV. 2399",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "SOLDADO DE LA FRONTERA AV. 4951",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "CASTAARES AV. 4650",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "MURGUIONDO 3096",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "RIESTRA AV. 5758",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "RIESTRA AV. 5701",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "SOLDADO DE LA FRONTERA AV. 5186",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "RIESTRA AV. 6148",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "SOMELLERA 5725",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "MURGUIONDO 4064",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "SOMELLERA 5671",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "SANTANDER 5101",
+    "barrio": "VILLA LUGANO",
+    "comuna": 8
+  },
+  {
+    "direccion": "SAN JUAN AV. 546",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "COCHABAMBA 710",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "BRASIL 447",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 767",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "PASEO COLON AV. 979",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "BOLIVAR 1001",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "CHILE 700",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "SAN JUAN AV. 172",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "BOLIVAR 716",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "CHACABUCO 940",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "DEFENSA 1200",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "HUMBERTO 1 434",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "PIEDRAS 1012",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "PERU 1520",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "BOLIVAR 830",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "BRASIL 800",
+    "barrio": "SAN TELMO",
+    "comuna": 1
+  },
+  {
+    "direccion": "RUIZ HUIDOBRO AV. 4062",
+    "barrio": "SAAVEDRA",
+    "comuna": 12
+  },
+  {
+    "direccion": "PINTO 3899",
+    "barrio": "SAAVEDRA",
+    "comuna": 12
+  },
+  {
+    "direccion": "BESARES 4099",
+    "barrio": "SAAVEDRA",
+    "comuna": 12
+  },
+  {
+    "direccion": "VEDIA 3626",
+    "barrio": "SAAVEDRA",
+    "comuna": 12
+  },
+  {
+    "direccion": "RAMALLO 2802",
+    "barrio": "SAAVEDRA",
+    "comuna": 12
+  },
+  {
+    "direccion": "GALVAN 4102",
+    "barrio": "SAAVEDRA",
+    "comuna": 12
+  },
+  {
+    "direccion": "RAMALLO 2568",
+    "barrio": "SAAVEDRA",
+    "comuna": 12
+  },
+  {
+    "direccion": "CABILDO AV. 4750",
+    "barrio": "SAAVEDRA",
+    "comuna": 12
+  },
+  {
+    "direccion": "CABILDO AV. 3834",
+    "barrio": "SAAVEDRA",
+    "comuna": 12
+  },
+  {
+    "direccion": "GARCIA DEL RIO 4097",
+    "barrio": "SAAVEDRA",
+    "comuna": 12
+  },
+  {
+    "direccion": "MONROE AV. 3195",
+    "barrio": "COGHLAN",
+    "comuna": 12
+  },
+  {
+    "direccion": "IBERA 3300",
+    "barrio": "COGHLAN",
+    "comuna": 12
+  },
+  {
+    "direccion": "CONGRESO AV. 3101",
+    "barrio": "COGHLAN",
+    "comuna": 12
+  },
+  {
+    "direccion": "OLAZABAL AV. 5297",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 5602",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "BURELA 2897",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "JURAMENTO 4948",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "OLAZABAL AV. 5068",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "BARZANA 1852",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "OLAZABAL AV. 4577",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "OLAZABAL AV. 4012",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "CONGRESO AV. 5101",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "IBERA 5850",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "BAUNESS 2600",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 4602",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "DE LOS CONSTITUYENTES AV. 6163",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "MONROE 5080",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 4101",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 2600",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 4381",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 4900",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 4636",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 4451",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "OLAZABAL AV. 5362",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "LA PAMPA 3915",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "MONROE 4990",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "CONGRESO AV. 5452",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "CULLEN 5297",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "MONROE 5091",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "CONGRESO AV. 4484",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "MONROE 4968",
+    "barrio": "VILLA URQUIZA",
+    "comuna": 12
+  },
+  {
+    "direccion": "PALPA 3203",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "ELCANO AV. 3501",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 1175",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 1566",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 868",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 1274",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "MOLDES 1599",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "ELCANO AV. 3102",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 810",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "CONDE 815",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "ELCANO AV. 3364",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "DELGADO 599",
+    "barrio": "COLEGIALES",
+    "comuna": 13
+  },
+  {
+    "direccion": "PICHINCHA 52",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "TUCUMAN 2686",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORRIENTES AV. 2289",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "TUCUMAN 3199",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "SARMIENTO 2102",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "PUEYRREDON AV. 802",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "TUCUMAN 2302",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "PUEYRREDON AV. 609",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 2083",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIOBAMBA 261",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORDOBA AV. 2850",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 2358",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "LAVALLE 2000",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 2000",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 2199",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAAVEDRA 126",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 2952",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "JUJUY AV. 107",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "ECUADOR 918",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORDOBA AV. 2064",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "TUCUMAN 3253",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "MEXICO 2501",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "COMBATE DE LOS POZOS 348",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 2398",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "ENTRE RIOS AV. 299",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 2568",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "TUCUMAN 2102",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORRIENTES AV. 2890",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "SARMIENTO 2057",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "LARREA 252",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "LAVALLE 2099",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "JUNIN 43",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORRIENTES AV. 2101",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "MORENO 2033",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORRIENTES AV. 2202",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 3030",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "BELGRANO AV. 2199",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "LARREA 552",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "DE LOS CONSTITUYENTES AV. 6117",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": 12
+  },
+  {
+    "direccion": "MOSCONI GENERAL AV. 3140",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": 12
+  },
+  {
+    "direccion": "DE LOS CONSTITUYENTES AV. 6020",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": 12
+  },
+  {
+    "direccion": "MOSCONI GENERAL AV. 2502",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": 12
+  },
+  {
+    "direccion": "DE LOS CONSTITUYENTES AV. 5502",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": 12
+  },
+  {
+    "direccion": "MOSCONI GENERAL AV. 2674",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": 12
+  },
+  {
+    "direccion": "MOSCONI GENERAL AV. 3199",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": 12
+  },
+  {
+    "direccion": "HABANA 3806",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "SANABRIA 2898",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "FERNANDEZ DE ENCISO 3979",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "LLAVALLOL 5066",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "FERNANDEZ DE ENCISO 4408",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "NOGOYA 4489",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "BERMUDEZ 2461",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "BAIGORRIA 4601",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "SANABRIA 3354",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "TINOGASTA 4109",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "LOPE DE VEGA AV. 2965",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "CAMPANA 4658",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "LOPE DE VEGA AV. 2667",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "LOPE DE VEGA AV. 3249",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "LOPE DE VEGA AV. 2599",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "SAN MARTIN AV. 6899",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "CHIVILCOY AV. 3894",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "SAN MARTIN AV. 7277",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "SAN MARTIN AV. 6473",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "NUEVA YORK 4897",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "LOPE DE VEGA AV. 3185",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "SANABRIA 3111",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "NOGOYA 4418",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "LOPE DE VEGA AV. 3537",
+    "barrio": "VILLA DEVOTO",
+    "comuna": 11
+  },
+  {
+    "direccion": "CARHUE 40",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "BYNNON 6801",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "POLA 299",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "RIVADAVIA AV. 11244",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "MONTIEL 1100",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "COSQUIN 732",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "RIVADAVIA AV. 11362",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "ACASSUSO 6384",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "CAAGUAZU 6299",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "RIVADAVIA AV. 3284",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "BELGRANO AV. 2509",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RINCON 96",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "BELGRANO AV. 2530",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "PASTEUR 532",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 2754",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "SARMIENTO 1867",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIOBAMBA 434",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORDOBA AV. 2932",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CALLAO AV. 602",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "COMBATE DE LOS POZOS 433",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "JUJUY AV. 601",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 2431",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "ENTRE RIOS AV. 205",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORDOBA AV. 2348",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORRIENTES AV. 3247",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 2215",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "PUEYRREDON AV. 539",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 3102",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORRIENTES AV. 1820",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORRIENTES AV. 3220",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORDOBA AV. 2600",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORRIENTES AV. 1999",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "PICHINCHA 211",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "LARREA 127",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "PUEYRREDON AV. 202",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 2502",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "PUEYRREDON AV. 581",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORRIENTES AV. 1835",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORRIENTES AV. 2276",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 2101",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "SARMIENTO 2214",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "VIAMONTE 2661",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAAVEDRA 172",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CORRIENTES AV. 1880",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "BELGRANO AV. 3002",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 2726",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "MORENO 2502",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "ENTRE RIOS AV. 459",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "BELGRANO AV. 2950",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "LA RIOJA 287",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "COMBATE DE LOS POZOS 77",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "JUJUY AV. 120",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 3081",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 3254",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "RIVADAVIA AV. 2202",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "SAAVEDRA 602",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "MORENO 2202",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "CALLAO AV. 200",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "BELGRANO AV. 3101",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "GAONA AV. 3099",
+    "barrio": "VILLA GRAL. MITRE",
+    "comuna": 11
+  },
+  {
+    "direccion": "SAN MARTIN AV. 2802",
+    "barrio": "VILLA GRAL. MITRE",
+    "comuna": 11
+  },
+  {
+    "direccion": "CONDARCO 2105",
+    "barrio": "VILLA GRAL. MITRE",
+    "comuna": 11
+  },
+  {
+    "direccion": "ALVAREZ JONTE 2336",
+    "barrio": "VILLA GRAL. MITRE",
+    "comuna": 11
+  },
+  {
+    "direccion": "TRES ARROYOS 2060",
+    "barrio": "VILLA GRAL. MITRE",
+    "comuna": 11
+  },
+  {
+    "direccion": "SAN MARTIN AV. 2724",
+    "barrio": "VILLA GRAL. MITRE",
+    "comuna": 11
+  },
+  {
+    "direccion": "SAN MARTIN AV. 3200",
+    "barrio": "VILLA GRAL. MITRE",
+    "comuna": 11
+  },
+  {
+    "direccion": "ALVAREZ JONTE 2098",
+    "barrio": "VILLA GRAL. MITRE",
+    "comuna": 11
+  },
+  {
+    "direccion": "AVALOS 1554",
+    "barrio": "PARQUE CHAS",
+    "comuna": 15
+  },
+  {
+    "direccion": "DE LOS CONSTITUYENTES AV. 3601",
+    "barrio": "PARQUE CHAS",
+    "comuna": 15
+  },
+  {
+    "direccion": "DE LOS INCAS AV. 4960",
+    "barrio": "PARQUE CHAS",
+    "comuna": 15
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 3752",
+    "barrio": "PARQUE CHAS",
+    "comuna": 15
+  },
+  {
+    "direccion": "DE LOS INCAS AV. 4892",
+    "barrio": "PARQUE CHAS",
+    "comuna": 15
+  },
+  {
+    "direccion": "BAUNESS 1099",
+    "barrio": "PARQUE CHAS",
+    "comuna": 15
+  },
+  {
+    "direccion": "SAN MARTIN AV. 6199",
+    "barrio": "AGRONOMIA",
+    "comuna": 15
+  },
+  {
+    "direccion": "GUTENBERG 3295",
+    "barrio": "AGRONOMIA",
+    "comuna": 15
+  },
+  {
+    "direccion": "NAZCA 3714",
+    "barrio": "AGRONOMIA",
+    "comuna": 15
+  },
+  {
+    "direccion": "SAN MARTIN AV. 4951",
+    "barrio": "AGRONOMIA",
+    "comuna": 15
+  },
+  {
+    "direccion": "ELCANO AV. 3901",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 3931",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "COMBATIENTES DE MALVINAS AV. 3105",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "CHARLONE 1999",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 2977",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "COMBATIENTES DE MALVINAS AV. 3005",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "GUEVARA 1541",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 1475",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 1555",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "CHORROARIN AV. 1482",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 3602",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 3749",
+    "barrio": "VILLA ORTUZAR",
+    "comuna": 15
+  },
+  {
+    "direccion": "SANTA MAGDALENA 668",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "SANTO DOMINGO 2425",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "REGIMIENTO DE PATRICIOS AV. 101",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 1000",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "PERDRIEL 74",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "OLAVARRIA 1363",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 1990",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "RIO CUARTO 2400",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "PIEDRAS 1960",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 1902",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "REGIMIENTO DE PATRICIOS AV. 935",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "SUAREZ 1680",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 554",
+    "barrio": "BARRACAS",
+    "comuna": 4
+  },
+  {
+    "direccion": "LAGUNA 1384",
+    "barrio": "PARQUE AVELLANEDA",
+    "comuna": 9
+  },
+  {
+    "direccion": "LACARRA 688",
+    "barrio": "PARQUE AVELLANEDA",
+    "comuna": 9
+  },
+  {
+    "direccion": "OLIVERA AV. 1263",
+    "barrio": "PARQUE AVELLANEDA",
+    "comuna": 9
+  },
+  {
+    "direccion": "DIRECTORIO AV. 4799",
+    "barrio": "PARQUE AVELLANEDA",
+    "comuna": 9
+  },
+  {
+    "direccion": "DIRECTORIO AV. 4701",
+    "barrio": "PARQUE AVELLANEDA",
+    "comuna": 9
+  },
+  {
+    "direccion": "DIRECTORIO AV. 3901",
+    "barrio": "PARQUE AVELLANEDA",
+    "comuna": 9
+  },
+  {
+    "direccion": "LACARRA AV. 1302",
+    "barrio": "PARQUE AVELLANEDA",
+    "comuna": 9
+  },
+  {
+    "direccion": "DIRECTORIO AV. 4549",
+    "barrio": "PARQUE AVELLANEDA",
+    "comuna": 9
+  },
+  {
+    "direccion": "ASAMBLEA AV. 891",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "COBO AV. 1101",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "CURAPALIGUE 896",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "CARABOBO AV. 1000",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "COBO AV. 1894",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "DIRECTORIO AV. 520",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "BARCO CENTENERA DEL 1282",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "ALBARRACIN 1551",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "ASAMBLEA AV. 1102",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "DIRECTORIO AV. 280",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "DIRECTORIO AV. 500",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "COBO AV. 1189",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "ASAMBLEA AV. 826",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "DIRECTORIO AV. 2",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "ASAMBLEA AV. 500",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "DIRECTORIO AV. 1302",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": 7
+  },
+  {
+    "direccion": "LA PLATA AV. 2599",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "SAENZ AV. 885",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "BARCO CENTENERA DEL 3111",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "ALMAFUERTE AV. 27",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "SAENZ AV. 895",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "LA PLATA AV. 2501",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "SAENZ AV. 875",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "SAENZ AV. 1028",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "SAENZ AV. 1071",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "SAENZ AV. 296",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "SAENZ AV. 1181",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "ALMAFUERTE AV. 399",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "PEPIRI 1501",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 3600",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "LA PLATA AV. 2401",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "TRAFUL 3870",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "SAENZ AV. 1091",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "SAENZ AV. 883",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "CASEROS AV. 3372",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "SAENZ AV. 1285",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": 4
+  },
+  {
+    "direccion": "CERVIO AV. 3365",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "BONPLAND 1507",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "FRAY JUSTO SANTAMARIA DE ORO 3018",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CORDOBA AV. 4899",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CERVIO AV. 4602",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "ARAOZ 2800",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SANTA FE AV. 3944",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "HONDURAS 3702",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "PARAGUAY 3950",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "BULNES 1770",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "COSTA RICA 4799",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CHARCAS 4043",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "EL SALVADOR 5899",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "GUEMES 3732",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "ARMENIA 2217",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "BULNES 1714",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "PARAGUAY 4502",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "ORTIZ DE OCAMPO 2620",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "GUEMES 4102",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "GUEMES 3787",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SANTA FE AV. 3878",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CASTEX 3438",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "GUEMES 4024",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CERVIO AV. 3381",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SANTA FE AV. 4024",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SANTA FE AV. 3557",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "REPUBLICA ARABE SIRIA 3193",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "MIGUELETES 961",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CABILDO AV. 799",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SAN MARTIN DE TOURS 2952",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SANTA FE AV. 4538",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CABILDO AV. 100",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SANTA FE AV. 3350",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "ARCE 516",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "PARAGUAY 5301",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SANTA FE AV. 4220",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CABELLO 3701",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SANTA FE AV. 4800",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "URIARTE 2436",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "GUEMES 3500",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SANTA FE AV. 4228",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CERVIO AV. 4860",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CHARCAS 4299",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "OLLEROS AV. 1802",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "MAURE 1615",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CORDOBA AV. 3949",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CORDOBA AV. 4601",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "BULNES 2001",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "LAS HERAS GENERAL AV. 3299",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "GODOY CRUZ 2958",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CABILDO AV. 1201",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SANTA FE AV. 4486",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CABILDO AV. 659",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "GODOY CRUZ 2771",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CERVIO AV. 4716",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "GUEMES 4799",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SAN MARTIN DE TOURS 2976",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "MAURE 1732",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CABILDO AV. 370",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "MEDRANO 1168",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CABILDO AV. 1053",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "PARAGUAY 5002",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "GUEMES 4026",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 2102",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "MEDRANO 1773",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "SANTA FE AV. 4900",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CABILDO AV. 499",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CORDOBA AV. 5901",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CORDOBA AV. 3599",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "CORRALES 6302",
+    "barrio": "VILLA RIACHUELO",
+    "comuna": 8
+  },
+  {
+    "direccion": "GUAMINI 4867",
+    "barrio": "VILLA RIACHUELO",
+    "comuna": 8
+  },
+  {
+    "direccion": "CORRALES 3381",
+    "barrio": "VILLA SOLDATI",
+    "comuna": 8
+  },
+  {
+    "direccion": "LAFUENTE 2899",
+    "barrio": "VILLA SOLDATI",
+    "comuna": 8
+  },
+  {
+    "direccion": "PORTELA 2975",
+    "barrio": "VILLA SOLDATI",
+    "comuna": 8
+  },
+  {
+    "direccion": "LAFUENTE 3068",
+    "barrio": "VILLA SOLDATI",
+    "comuna": 8
+  },
+  {
+    "direccion": "ALBARELLOS AV. 2889",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": 12
+  },
+  {
+    "direccion": "MOSCONI GENERAL AV. 3300",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": 12
+  },
+  {
+    "direccion": "MOSCONI GENERAL AV. 2799",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": 12
+  },
+  {
+    "direccion": "NAZCA 4392",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": 12
+  },
+  {
+    "direccion": "RIVADAVIA AV. 11552",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "ACASSUSO 6392",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "RIVADAVIA AV. 11420",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "CARHUE 99",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "IBARROLA 7232",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "RIVADAVIA AV. 11532",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "ACASSUSO 6440",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "CUZCO 125",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "IBARROLA 7298",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "RIVADAVIA AV. 10500",
+    "barrio": "LINIERS",
+    "comuna": 9
+  },
+  {
+    "direccion": "ARREGUI 6560",
+    "barrio": "VERSALLES",
+    "comuna": 10
+  },
+  {
+    "direccion": "BRUSELAS 816",
+    "barrio": "VERSALLES",
+    "comuna": 10
+  },
+  {
+    "direccion": "ROMA 955",
+    "barrio": "VERSALLES",
+    "comuna": 10
+  },
+  {
+    "direccion": "MANSO JUANA 1189",
+    "barrio": "PUERTO MADERO",
+    "comuna": 1
+  },
+  {
+    "direccion": "MANSO JUANA 475",
+    "barrio": "PUERTO MADERO",
+    "comuna": 1
+  },
+  {
+    "direccion": "MANSO JUANA 1696",
+    "barrio": "PUERTO MADERO",
+    "comuna": 1
+  },
+  {
+    "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 1502",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "BELGRANO AV. 1314",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 1701",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "MORENO 461",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "MORENO 900",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "DE MAYO AV. 1129",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "MORENO 636",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "DE MAYO AV. 964",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "LIMA 595",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "DEFENSA 201",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "BOLIVAR 326",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "MORENO 1559",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 802",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "SALTA 534",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "PIEDRAS 88",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "SAN JOSE 321",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "SANTIAGO DEL ESTERO 121",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "BELGRANO AV. 1702",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "ENTRE RIOS AV. 196",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "BELGRANO AV. 1200",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "PERU 75",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "BELGRANO AV. 602",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "CHACABUCO 119",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "DE MAYO AV. 1302",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "ENTRE RIOS AV. 742",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "DE MAYO AV. 675",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "SOLIS 146",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "MEXICO 1285",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "BELGRANO AV. 1303",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "DE MAYO AV. 892",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "DE MAYO AV. 1217",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "ENTRE RIOS AV. 732",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "AZOPARDO 350",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "BELGRANO AV. 1746",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "DE MAYO AV. 1102",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORDOBA AV. 1402",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "LAVALLE 1500",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "LAVALLE 1401",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "VIAMONTE 1734",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "SARMIENTO 1302",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "SARMIENTO 1579",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "RODRIGUEZ PEA 753",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "RIVADAVIA AV. 1581",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "LAVALLE 1118",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORDOBA AV. 1432",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "RECONQUISTA 526",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "RECONQUISTA 613",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORRIENTES AV. 301",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "TALCAHUANO 750",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "RECONQUISTA 458",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "MAIPU 738",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CALLAO AV. 689",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "TUCUMAN 1391",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "LAVALLE 1722",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "25 DE MAYO 530",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "LAVALLE 1127",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORRIENTES AV. 702",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "MAIPU 745",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "25 DE MAYO 222",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CALLAO AV. 299",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "LAVALLE 1702",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CALLAO AV. 477",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CALLAO AV. 45",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORDOBA AV. 876",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "LAVALLE 919",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "SARMIENTO 481",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "FLORIDA 474",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "FLORIDA 118",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "SARMIENTO 1490",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "FLORIDA 52",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORRIENTES AV. 480",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORRIENTES AV. 1236",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CALLAO AV. 27",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "VIAMONTE 575",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORRIENTES AV. 1145",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "TUCUMAN 918",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "LAVALLE 646",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORRIENTES AV. 901",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "ESMERALDA 599",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "PARANA 185",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CERRITO 342",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "MAIPU 501",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "LAVALLE 1790",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "SAN MARTIN 145",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CALLAO AV. 779",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "URUGUAY AV. 479",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "RIVADAVIA AV. 851",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "VIAMONTE 1416",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "VIAMONTE 1461",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "SAN MARTIN 590",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "TUCUMAN 1601",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORRIENTES AV. 1499",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "VUELTA DE OBLIGADO 2699",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "ARCOS 2161",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "MONROE AV. 3592",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "VIDAL 2360",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "MOLDES 2289",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 2676",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 6664",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CONESA 2239",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "JURAMENTO 3123",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "ECHEVERRIA 3062",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CONGRESO 2182",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "ARCOS 1739",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "LA PAMPA 2978",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CONGRESO AV. 2486",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 2171",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "JURAMENTO AV. 2484",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "JURAMENTO AV. 2002",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "MONROE 2802",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "MONROE 2112",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "MONROE 2101",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "VIDAL 1784",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "ECHEVERRIA 1472",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "MONROE AV. 3508",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "JURAMENTO AV. 2741",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "JURAMENTO 1602",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CRAMER AV. 1963",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "OLAZABAL 2420",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 2685",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 1840",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 2340",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 6636",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 6068",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "JURAMENTO AV. 1941",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 2151",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CRAMER AV. 2301",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 2540",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "JURAMENTO 1687",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "LA PAMPA 3400",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 2517",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "JURAMENTO AV. 1799",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 1631",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "ECHEVERRIA 3187",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CONGRESO AV. 2520",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 2363",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "JURAMENTO 1520",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 6285",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "MONROE 1600",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "AMENABAR 2375",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "PABELLON 2 CIUDAD UNIVERSITARIA",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "MONROE 2499",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "MOLDES 1999",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "MONROE 1901",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 5390",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "CRAMER AV. 2101",
+    "barrio": "BELGRANO",
+    "comuna": 13
+  },
+  {
+    "direccion": "GUEMES 3002",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "JUNCAL 2863",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "GALLO 1289",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "URUGUAY 1090",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PUEYRREDON AV. 1109",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PEA 3119",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PARAGUAY 1402",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CALLAO AV. 1180",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PEA 2776",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "URUGUAY 1272",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "ARENALES 2045",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PARAGUAY 2701",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PARAGUAY 3260",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "AUSTRIA 2480",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "URUGUAY 984",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "SANTA FE AV. 2166",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CALLAO AV. 2002",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CALLAO AV. 1501",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CORDOBA AV. 2401",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CORDOBA AV. 2351",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "ECUADOR 1651",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "LARREA 1032",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "RIOBAMBA 923",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PUEYRREDON AV. 1719",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "SANTA FE AV. 3089",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 810",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "GUEMES 3271",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "BERUTI 3300",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PUEYRREDON AV. 1502",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "SANTA FE AV. 2399",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "JUNCAL 2733",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "LAS HERAS GENERAL AV. 2318",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "SANCHEZ DE BUSTAMANTE 1639",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "RIOBAMBA 1076",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "AUSTRIA 1839",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "SANTA FE AV. 2528",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "LAS HERAS GENERAL AV. 2968",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CHARCAS 3099",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "AZCUENAGA 1009",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "SANTA FE AV. 3000",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "AZCUENAGA 1188",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "ARENALES 1813",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "GUIDO 1602",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PUEYRREDON AV. 1460",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "RODRIGUEZ PEA 1069",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "LAS HERAS GENERAL AV. 2273",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PUEYRREDON AV. 1673",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "LAS HERAS GENERAL AV. 2699",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "MONTEVIDEO 1183",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PUEYRREDON AV. 1184",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CORDOBA AV. 1467",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CORDOBA AV. 3381",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CORDOBA AV. 1861",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CORDOBA AV. 3199",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "SANTA FE AV. 2249",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PUEYRREDON AV. 1598",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "SANTA FE AV. 2936",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CORDOBA AV. 2501",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "JUNCAL 2116",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CORDOBA AV. 1401",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "LARREA 906",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PARAGUAY 2802",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PUEYRREDON AV. 1428",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "AZCUENAGA 1235",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CALLAO AV. 1379",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "LAS HERAS GENERAL AV. 2002",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "MONTEVIDEO 877",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "AUSTRIA 2270",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PARAGUAY 2387",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "JUNCAL 3005",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CORDOBA AV. 1701",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "AGUERO 1926",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "LARREA 1249",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CORDOBA AV. 2639",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "ECUADOR 1320",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PARAGUAY 2322",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "CALLAO AV. 1621",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "LAS HERAS GENERAL AV. 2902",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PARAGUAY 2902",
+    "barrio": "RECOLETA",
+    "comuna": 2
+  },
+  {
+    "direccion": "PARAGUAY 797",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "JUNCAL 912",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "CERRITO 1054",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "CERRITO 1174",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "DE LOS INMIGRANTES AV. 2509",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "ESMERALDA 1279",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORDOBA AV. 533",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "PARERA 57",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "LIBERTAD 1279",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "CORDOBA AV. 685",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "TALCAHUANO 1036",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "SANTA FE AV. 802",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "ARENALES 917",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "SANTA FE AV. 1295",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "ARENALES 1302",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "LIBERTAD 804",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "CERRITO 1044",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "LIBERTAD 861",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "PARAGUAY 615",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "JUNCAL 873",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "TALCAHUANO 958",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "ARENALES 1230",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "LIBERTAD 1092",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "CERRITO 1516",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "HALL EST RETIRO FCGBM",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "RECONQUISTA 1000",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "CABILDO AV. 2928",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 3307",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "BESARES 2299",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CIUDAD DE LA PAZ 3299",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 3111",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 4599",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 3210",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 3399",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 3424",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 2967",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 4633",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 4001",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 8324",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 8140",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 7446",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CRAMER AV. 3015",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 2917",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 8322",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 3673",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 4299",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "CABILDO AV. 3999",
+    "barrio": "NUEZ",
+    "comuna": 13
+  },
+  {
+    "direccion": "PI Y MARGALL 725",
+    "barrio": "BOCA",
+    "comuna": 4
+  },
+  {
+    "direccion": "SUAREZ 301",
+    "barrio": "BOCA",
+    "comuna": 4
+  },
+  {
+    "direccion": "NECOCHEA 635",
+    "barrio": "BOCA",
+    "comuna": 4
+  },
+  {
+    "direccion": "PI Y MARGALL 781",
+    "barrio": "BOCA",
+    "comuna": 4
+  },
+  {
+    "direccion": "NECOCHEA 799",
+    "barrio": "BOCA",
+    "comuna": 4
+  },
+  {
+    "direccion": "REGIMIENTO DE PATRICIOS AV. 38",
+    "barrio": "BOCA",
+    "comuna": 4
+  },
+  {
+    "direccion": "OLAVARRIA 443",
+    "barrio": "BOCA",
+    "comuna": 4
+  },
+  {
+    "direccion": "OLAVARRIA 837",
+    "barrio": "BOCA",
+    "comuna": 4
+  },
+  {
+    "direccion": "REGIMIENTO DE PATRICIOS AV. 1676",
+    "barrio": "BOCA",
+    "comuna": 4
+  },
+  {
+    "direccion": "20 DE SETIEMBRE 222",
+    "barrio": "BOCA",
+    "comuna": 4
+  },
+  {
+    "direccion": "REGIMIENTO DE PATRICIOS AV. 570",
+    "barrio": "BOCA",
+    "comuna": 4
+  },
+  {
+    "direccion": "BRASIL 1201",
+    "barrio": "CONSTITUCION",
+    "comuna": 1
+  },
+  {
+    "direccion": "SAN MARTIN 908",
+    "barrio": "RETIRO",
+    "comuna": 1
+  },
+  {
+    "direccion": "TUCUMAN 701",
+    "barrio": "SAN NICOLAS",
+    "comuna": 1
+  },
+  {
+    "direccion": "SAN MARTIN AV. 2311",
+    "barrio": "PATERNAL",
+    "comuna": 15
+  },
+  {
+    "direccion": "SAN MARTIN AV. 2711",
+    "barrio": "PATERNAL",
+    "comuna": 15
+  },
+  {
+    "direccion": "GAONA AV. 2197",
+    "barrio": "CABALLITO",
+    "comuna": 6
+  },
+  {
+    "direccion": "BONPLAND 1631",
+    "barrio": "PALERMO",
+    "comuna": 14
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 4001",
+    "barrio": "ALMAGRO",
+    "comuna": 5
+  },
+  {
+    "direccion": "SAN MARTIN AV. 1673",
+    "barrio": "VILLA CRESPO",
+    "comuna": 15
+  },
+  {
+    "direccion": "DEFENSA 336",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "PERU 402",
+    "barrio": "MONSERRAT",
+    "comuna": 1
+  },
+  {
+    "direccion": "RIVADAVIA AV. 1911",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  },
+  {
+    "direccion": "PASTEUR 16",
+    "barrio": "BALVANERA",
+    "comuna": 3
+  }
+ ]);
