@@ -18,4 +18,4 @@ mvn spring-boot:run
 ```
 
 ## Authors
-- [Walter Leguiza](wal.leguiza@gmail.com)
+- Walter Leguiza (wal.leguiza@gmail.com)
